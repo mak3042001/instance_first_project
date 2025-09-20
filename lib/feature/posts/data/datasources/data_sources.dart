@@ -64,7 +64,8 @@ class PostRemoteDatasourceImp implements PostRemoteDatasource {
   PostsModels updatePost(PostsModels model) {
     final index = _posts.indexWhere((p) => p.id == model.id);
     if (index != -1) {
-      return _posts[index];
+      _posts[index] = model;
+      return model;
     } else {
       throw ServerException();
     }
