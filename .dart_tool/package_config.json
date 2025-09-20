@@ -1,0 +1,58 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "async",
+      "rootUri": "file:///C:/Users/Mohamed%20Ahmed/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.13.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///C:/Users/Mohamed%20Ahmed/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.19.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "dartz",
+      "rootUri": "file:///C:/Users/Mohamed%20Ahmed/AppData/Local/Pub/Cache/hosted/pub.dev/dartz-0.10.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "equatable",
+      "rootUri": "file:///C:/Users/Mohamed%20Ahmed/AppData/Local/Pub/Cache/hosted/pub.dev/equatable-2.0.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "get_it",
+      "rootUri": "file:///C:/Users/Mohamed%20Ahmed/AppData/Local/Pub/Cache/hosted/pub.dev/get_it-8.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///C:/Users/Mohamed%20Ahmed/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.17.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///C:/Users/Mohamed%20Ahmed/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "r34_08",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.8.1",
+  "flutterRoot": "file:///C:/src/flutter",
+  "flutterVersion": "3.32.7",
+  "pubCache": "file:///C:/Users/Mohamed%20Ahmed/AppData/Local/Pub/Cache"
+}
