@@ -61,7 +61,8 @@ class ProductRemoteDatasourceImp implements ProductRemoteDatasource {
   ProductModel updateProduct(ProductModel product) {
     final index = _product.indexWhere((p) => p.id == product.id);
     if (index != -1) {
-      return _product[index];
+      _product[index] = product;
+      return product;
     } else {
       throw ServerException();
     }
